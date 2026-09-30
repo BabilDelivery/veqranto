@@ -1,0 +1,10 @@
+.env
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+backups/
+VEQRANTO_*BACKUP*
+app*.bak
+*.bak
